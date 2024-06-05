@@ -215,7 +215,7 @@ public class tela_agendamento extends javax.swing.JFrame {
             }
         });
         getContentPane().add(jButton3);
-        jButton3.setBounds(540, 330, 180, 60);
+        jButton3.setBounds(530, 330, 180, 60);
 
         jButton4.setBackground(new java.awt.Color(82, 113, 255));
         jButton4.setFont(new java.awt.Font("Arial", 1, 18)); // NOI18N
@@ -227,7 +227,7 @@ public class tela_agendamento extends javax.swing.JFrame {
             }
         });
         getContentPane().add(jButton4);
-        jButton4.setBounds(750, 330, 180, 60);
+        jButton4.setBounds(730, 330, 180, 60);
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
