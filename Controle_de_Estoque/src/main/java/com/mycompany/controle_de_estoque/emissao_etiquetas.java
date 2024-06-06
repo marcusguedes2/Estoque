@@ -40,7 +40,6 @@ public class emissao_etiquetas extends javax.swing.JFrame {
         jTextField4 = new javax.swing.JTextField();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setPreferredSize(new java.awt.Dimension(945, 475));
         getContentPane().setLayout(null);
 
         jPanel1.setBackground(new java.awt.Color(184, 184, 184));
